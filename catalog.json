@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "updated": "2026-11-23",
+ "languages": [
+  {
+   "id": "es",
+   "name": "Spanish",
+   "native": "Español",
+   "status": "available",
+   "courses": [
+    {
+     "id": "spanish-101",
+     "title": "Spanish 101",
+     "parts": [
+      "spanish-101-p1",
+      "spanish-101-p2"
+     ]
+    },
+    {
+     "id": "spanish-102",
+     "title": "Spanish 102",
+     "soon": true
+    }
+   ]
+  },
+  {
+   "id": "ru",
+   "name": "Russian",
+   "native": "Русский",
+   "status": "soon"
+  },
+  {
+   "id": "de",
+   "name": "German",
+   "native": "Deutsch",
+   "status": "soon"
+  }
+ ],
+ "parts": [
+  {
+   "id": "spanish-101-p1",
+   "lang": "es",
+   "course": "Spanish 101",
+   "part": 1,
+   "title": "Spanish 101 · Part 1",
+   "version": 1,
+   "free": true,
+   "chapters": [
+    "Chapter 1: The Sounds of Spanish",
+    "Chapter 2: ¡Hola! Meeting People",
+    "Chapter 3: At School and My Week"
+   ],
+   "lessons": 20,
+   "sizes": {
+    "core": 2861500,
+    "US/Aoede": 3038456,
+    "US/Kore": 3262496,
+    "US/Charon": 3068816,
+    "US/Orus": 3023816,
+    "ES/Aoede": 2996336,
+    "ES/Kore": 2303216,
+    "ES/Charon": 3201056,
+    "ES/Orus": 2840456
+   },
+   "desc": "Chapters 1 to 3. Sounds, meeting people, numbers, time, school and your week.",
+   "path": "spanish-101-p1/v1/"
+  },
+  {
+   "id": "spanish-101-p2",
+   "lang": "es",
+   "course": "Spanish 101",
+   "part": 2,
+   "title": "Spanish 101 · Part 2",
+   "version": 1,
+   "free": false,
+   "chapters": [
+    "Chapter 4: Family and Describing People",
+    "Chapter 5: Free Time and Around Town",
+    "Chapter 6: Weather, Feelings and Trips"
+   ],
+   "lessons": 20,
+   "sizes": {
+    "core": 4202596,
+    "US/Aoede": 3034604,
+    "US/Kore": 3241820,
+    "US/Charon": 3140060,
+    "US/Orus": 3021380,
+    "ES/Aoede": 2923844,
+    "ES/Kore": 2330300,
+    "ES/Charon": 3081020,
+    "ES/Orus": 2868692
+   },
+   "desc": "Chapters 4 to 6. Family, free time, getting around, weather, feelings and trips. Plus Ana's storybook and the past-tense peek."
+  }
+ ],
+ "plusGateway": null
+}
