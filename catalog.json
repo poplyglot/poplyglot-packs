@@ -43,7 +43,7 @@
    "course": "Spanish 101",
    "part": 1,
    "title": "Spanish 101 · Part 1",
-   "version": 2,
+   "version": 3,
    "free": true,
    "chapters": [
     "Chapter 1: The Sounds of Spanish",
@@ -52,7 +52,7 @@
    ],
    "lessons": 20,
    "sizes": {
-    "core": 2860621,
+    "core": 2860620,
     "US/Aoede": 3032220,
     "US/Kore": 3252780,
     "US/Charon": 3064380,
@@ -63,7 +63,7 @@
     "ES/Orus": 2835780
    },
    "desc": "Chapters 1 to 3. Sounds, meeting people, numbers, time, school and your week.",
-   "path": "spanish-101-p1/v2/"
+   "path": "spanish-101-p1/v3/"
   },
   {
    "id": "spanish-101-p2",
@@ -71,7 +71,7 @@
    "course": "Spanish 101",
    "part": 2,
    "title": "Spanish 101 · Part 2",
-   "version": 2,
+   "version": 3,
    "free": false,
    "chapters": [
     "Chapter 4: Family and Describing People",
