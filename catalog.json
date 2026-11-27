@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-23",
+ "updated": "2026-11-26",
  "languages": [
   {
    "id": "es",
@@ -43,7 +43,7 @@
    "course": "Spanish 101",
    "part": 1,
    "title": "Spanish 101 · Part 1",
-   "version": 1,
+   "version": 2,
    "free": true,
    "chapters": [
     "Chapter 1: The Sounds of Spanish",
@@ -52,18 +52,18 @@
    ],
    "lessons": 20,
    "sizes": {
-    "core": 2861500,
-    "US/Aoede": 3038456,
-    "US/Kore": 3262496,
-    "US/Charon": 3068816,
-    "US/Orus": 3023816,
-    "ES/Aoede": 2996336,
-    "ES/Kore": 2303216,
-    "ES/Charon": 3201056,
-    "ES/Orus": 2840456
+    "core": 2860621,
+    "US/Aoede": 3032220,
+    "US/Kore": 3252780,
+    "US/Charon": 3064380,
+    "US/Orus": 3015180,
+    "ES/Aoede": 2991780,
+    "ES/Kore": 2306820,
+    "ES/Charon": 3197580,
+    "ES/Orus": 2835780
    },
    "desc": "Chapters 1 to 3. Sounds, meeting people, numbers, time, school and your week.",
-   "path": "spanish-101-p1/v1/"
+   "path": "spanish-101-p1/v2/"
   },
   {
    "id": "spanish-101-p2",
@@ -71,7 +71,7 @@
    "course": "Spanish 101",
    "part": 2,
    "title": "Spanish 101 · Part 2",
-   "version": 1,
+   "version": 2,
    "free": false,
    "chapters": [
     "Chapter 4: Family and Describing People",
@@ -80,15 +80,15 @@
    ],
    "lessons": 20,
    "sizes": {
-    "core": 4202596,
-    "US/Aoede": 3034604,
-    "US/Kore": 3241820,
-    "US/Charon": 3140060,
-    "US/Orus": 3021380,
-    "ES/Aoede": 2923844,
-    "ES/Kore": 2330300,
-    "ES/Charon": 3081020,
-    "ES/Orus": 2868692
+    "core": 4200253,
+    "US/Aoede": 3036284,
+    "US/Kore": 3245420,
+    "US/Charon": 3143660,
+    "US/Orus": 3021020,
+    "ES/Aoede": 2924804,
+    "ES/Kore": 2329580,
+    "ES/Charon": 3084620,
+    "ES/Orus": 2868932
    },
    "desc": "Chapters 4 to 6. Family, free time, getting around, weather, feelings and trips. Plus Ana's storybook and the past-tense peek."
   }
